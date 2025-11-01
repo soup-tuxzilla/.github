@@ -1,2 +1,2 @@
-![logo]("spooky-soup.png")
+![spooky-soup.png]("https://github.com/soupware-dev/.github/tree/main/profile/spooky-soup.png")
 Soup is an unincorporated developer group that owns the Discord server "soup", and makes software called "soupware".
