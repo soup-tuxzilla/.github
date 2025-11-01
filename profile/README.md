@@ -1,3 +1,4 @@
 ![spooky-soup.png](spooky-soup.png)
 
-Soup is an unincorporated developer group that owns the Discord server "soup", and makes software called "soupware".
+Trick-or-treat! :D
+I hope you all had a nice day during halloween. ;)
